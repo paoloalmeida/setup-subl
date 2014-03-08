@@ -1,0 +1,39 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			// Adobe Photoshop
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Adobe Photoshop CS5.app", // OSX
+									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+								}
+			},
+
+			// separator
+			{"caption":"-"},
+
+			// Google Chrome Canary
+			{
+                "caption": "Chrome",
+                "id": "side-bar-files-open-with-chrome",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                                    "paths": [],
+                                    "application": "Google Chrome Canary.app", // OSX
+                                    "extensions":"html|htm|php"  //any file with these extensions
+                                }
+            },
+
+            // separator
+			{"caption":"-"}
+		]
+	}
+]

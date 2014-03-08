@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Bower",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"cdnjs",
+		"CoffeeScript",
+		"Composer",
+		"DevDocs",
+		"Emmet",
+		"Gist",
+		"Git",
+		"HTML5",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Patterns",
+		"jQuery",
+		"Monokai Extended",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Placeholders",
+		"Rails Developer Snippets",
+		"Ruby on Rails snippets",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Spacegray",
+		"Wordpress"
+	]
+}
