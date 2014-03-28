@@ -2,7 +2,7 @@
 
 > Work in progress
 
-## User Settings
+### User Settings
 
     {
         "auto_complete_commit_on_tab ": true,
@@ -32,7 +32,7 @@
     }
 
 
-## Packages Installed
+### Packages Installed
 
 * ApplySyntax
 * Can I Use
@@ -50,10 +50,15 @@
 * SideBarEnhancements
 * sublime-jslint
 
-## Sync Settings by Dropbox
+### Sync Settings by Dropbox
 
     $ cd $HOME/Library/Application\ Support
     $ mv Sublime\ Text\ 2 $HOME/Dropbox/dotfiles/apps/Sublime\ Text\ 2/Application\ Support
     $ ln -s ~/Dropbox/dotfiles/apps/Sublime\ Text\ 2/Application\ Support/ Sublime\ Text\ 2
 
 **More about Sublime Text 2:** https://speakerdeck.com/kentaro/sublime-text-2-for-emacsers
+
+
+## License
+
+[MIT License](http://vitorbritto.mit-license.org/) © Vitor Britto
