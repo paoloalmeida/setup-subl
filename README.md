@@ -34,21 +34,33 @@
 
 ### Packages Installed
 
-* ApplySyntax
-* Can I Use
-* cdnjs
-* Emmet
-* Gem Browser
-* DevDocs Search
-* Gist
-* Git
-* Grunt
-* Monokai Extended
-* NetTuts+ Fetch
-* Placeholders
-* RubyTest
-* SideBarEnhancements
-* sublime-jslint
+**Globals**
+
+- [ApplySyntax]()
+- [Can I Use]()
+- [DevDocs Search]()
+- [Libraries from CDN]()
+- [Emmet](https://github.com/sergeche/emmet-sublime)
+- [Gist](https://github.com/condemil/Gist)
+- [Git](https://github.com/kemayo/sublime-text-git)
+- [NetTuts+ Fetch](https://github.com/weslly/Nettuts-Fetch)
+- [Placeholders](https://github.com/mrmartineau/Placeholders)
+- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
+
+**Snippets**
+
+- [JavaScript & NodeJS Snippets](https://github.com/zenorocha/sublime-javascript-snippets)
+- [JavaScript Patterns Snippets](https://github.com/caiogondim/js-patterns-sublime-snippets/)
+- [Angular Snippets](https://github.com/maxhoffmann/angular-snippets)
+- [Mocha Snippets](https://github.com/jfromaniello/sublime-mocha-snippets)
+- [Sass Snippets](https://github.com/sublimebrasil/sublime-snippets-sass/)
+- [Ruby/Rails/Rspec/ERB Snippets](https://github.com/j10io/railsdev-sublime-snippets)
+
+**Themes**
+
+- [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
+- [SpaceGray](https://github.com/kkga/spacegray)
 
 ### Sync Settings by Dropbox
 
