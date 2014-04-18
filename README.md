@@ -2,7 +2,7 @@
 
 > Work in progress
 
-### User Settings
+## User Settings
 
     {
         "auto_complete_commit_on_tab ": true,
@@ -32,7 +32,7 @@
     }
 
 
-### Packages Installed
+## Packages Installed
 
 **Globals**
 
@@ -62,13 +62,12 @@
 - [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 - [SpaceGray](https://github.com/kkga/spacegray)
 
-### Sync Settings by Dropbox
 
-    $ cd $HOME/Library/Application\ Support
-    $ mv Sublime\ Text\ 2 $HOME/Dropbox/dotfiles/apps/Sublime\ Text\ 2/Application\ Support
-    $ ln -s ~/Dropbox/dotfiles/apps/Sublime\ Text\ 2/Application\ Support/ Sublime\ Text\ 2
+## Sync Settings by Dropbox
 
-**More about Sublime Text 2:** https://speakerdeck.com/kentaro/sublime-text-2-for-emacsers
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    $ rm -r User
+    $ ln -s ~/Dropbox/Sublime/User
 
 
 ## License
