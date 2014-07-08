@@ -6,7 +6,8 @@
 ## User Settings
 
     {
-        "auto_complete_commit_on_tab ": true,
+    	"auto_complete_commit_on_tab ": true,
+        "theme": "Spacegray.sublime-theme",
     	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
     	"detect_indentation": false,
     	"detect_slow_plugins": false,
@@ -38,8 +39,6 @@
 **Globals**
 
 - [ApplySyntax]()
-- [Can I Use]()
-- [DevDocs Search]()
 - [Libraries from CDN]()
 - [Emmet](https://github.com/sergeche/emmet-sublime)
 - [Gist](https://github.com/condemil/Gist)
