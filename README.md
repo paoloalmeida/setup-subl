@@ -1,6 +1,7 @@
 # Sublime Setup
 
-> Work in progress
+
+**Note**: for new machines, proceed with [this steps](https://sublime.wbond.net/installation#st2)
 
 ## User Settings
 
@@ -69,6 +70,7 @@
     $ rm -r User
     $ ln -s ~/Dropbox/Sublime/User
 
+> [Check this link](https://sublime.wbond.net/docs/syncing) for detailed information.
 
 ## License
 
