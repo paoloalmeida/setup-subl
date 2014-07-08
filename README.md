@@ -1,7 +1,7 @@
 # Sublime Setup
 
 
-**Note**: for new machines, proceed with [this steps](https://sublime.wbond.net/installation#st2)
+**Note**: for new machines, procced with [these steps](https://sublime.wbond.net/installation#st2)
 
 ## User Settings
 
