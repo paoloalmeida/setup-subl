@@ -6,31 +6,34 @@
 ## User Settings
 
     {
-    	"auto_complete_commit_on_tab ": true,
-        "theme": "Spacegray.sublime-theme",
-    	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-    	"detect_indentation": false,
-    	"detect_slow_plugins": false,
-    	"draw_indent_guides": true,
-    	"font_size": 14,
-    	"highlight_line": true,
-    	"ignored_packages":
-    	[
-    		"Vintage"
-    	],
-    	"indent_guide_options":
-    	[
-    		"draw_active"
-    	],
-    	"rulers":
-    	[
-    		140
-    	],
-    	"tab_size": 4,
-    	"translate_tabs_to_spaces": true,
-    	"trim_trailing_white_space_on_save": true,
-    	"word_wrap": true,
-    	"wrap_width": 139
+        "auto_complete_commit_on_tab ": true,
+        "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+        "theme": "Afterglow-blue.sublime-theme",
+        "detect_indentation": false,
+        "detect_slow_plugins": false,
+        "dictionary": "Packages/Language - Portuguese/Portuguese (Brazilian).dic",
+        "draw_indent_guides": true,
+        "ensure_newline_at_eof_on_save": true,
+        "font_size": 14,
+        "highlight_line": true,
+        "tabs_small": true,
+        "ignored_packages":
+        [
+            "Vintage"
+        ],
+        "indent_guide_options":
+        [
+            "draw_active"
+        ],
+        "rulers":
+        [
+            114
+        ],
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true,
+        "trim_trailing_white_space_on_save": true,
+        "word_wrap": true,
+        "wrap_width": "auto"
     }
 
 
@@ -38,14 +41,11 @@
 
 **Globals**
 
-- [ApplySyntax]()
-- [Libraries from CDN]()
+- [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
+- [Libraries from CDN](https://github.com/bwiklund/sublime-text-cdn)
 - [Emmet](https://github.com/sergeche/emmet-sublime)
-- [Gist](https://github.com/condemil/Gist)
-- [Git](https://github.com/kemayo/sublime-text-git)
 - [NetTuts+ Fetch](https://github.com/weslly/Nettuts-Fetch)
 - [Placeholders](https://github.com/mrmartineau/Placeholders)
-- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 
 **Snippets**
@@ -57,10 +57,10 @@
 - [Sass Snippets](https://github.com/sublimebrasil/sublime-snippets-sass/)
 - [Ruby/Rails/Rspec/ERB Snippets](https://github.com/j10io/railsdev-sublime-snippets)
 
-**Themes**
+**Visual**
 
-- [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
-- [SpaceGray](https://github.com/kkga/spacegray)
+- [Scheme: Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
+- [Theme: Afterglow](https://github.com/YabataDesign/afterglow-theme)
 
 
 ## Sync Settings by Dropbox

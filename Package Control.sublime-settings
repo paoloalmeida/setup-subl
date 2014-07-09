@@ -5,10 +5,7 @@
 		"AngularJS Snippets",
 		"ApplySyntax",
 		"BracketHighlighter",
-		"CoffeeScript",
-		"DevDocs",
 		"Emmet",
-		"Gist",
 		"Git",
 		"HTML5",
 		"Jade",
@@ -21,14 +18,11 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"Placeholders",
-		"Rails Developer Snippets",
 		"Sass",
 		"SASS Snippets",
 		"SCSS",
-		"SideBarEnhancements",
 		"Stylus",
 		"SublimeLinter",
-		"Theme - Spacegray",
-		"Wordpress"
+		"Theme - Afterglow"
 	]
 }
