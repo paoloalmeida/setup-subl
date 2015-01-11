@@ -32,27 +32,41 @@
 
 **Globals**
 
-- [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
+- [Apply Syntax](https://github.com/facelessuser/ApplySyntax)
 - [Libraries from CDN](https://github.com/bwiklund/sublime-text-cdn)
 - [Emmet](https://github.com/sergeche/emmet-sublime)
-- [NetTuts+ Fetch](https://github.com/weslly/Nettuts-Fetch)
 - [Placeholders](https://github.com/mrmartineau/Placeholders)
-- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
+- [Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter)
+- [Sublime REPL](https://github.com/wuub/SublimeREPL)
 
 **Snippets**
 
 - [JavaScript & NodeJS Snippets](https://github.com/zenorocha/sublime-javascript-snippets)
 - [JavaScript Patterns Snippets](https://github.com/caiogondim/js-patterns-sublime-snippets/)
-- [Angular Snippets](https://github.com/maxhoffmann/angular-snippets)
+- [jQuery Snippets](https://github.com/SublimeText/jQuery)
+- [Lazy Backbone](https://github.com/pwhisenhunt/Sublime-Text-2-Lazy-Backbone.js-Package)
+- [NodeJS Snippets](https://github.com/tanepiper/SublimeText-Nodejs)
 - [Mocha Snippets](https://github.com/jfromaniello/sublime-mocha-snippets)
+- [Chai Snippets](https://github.com/pensive612/sublime-chai-full-completions)
 - [Sass Snippets](https://github.com/sublimebrasil/sublime-snippets-sass/)
 - [Ruby/Rails/Rspec/ERB Snippets](https://github.com/j10io/railsdev-sublime-snippets)
+
+**Build**
+
+- [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
+- [Sublime Minifier](https://github.com/bistory/Sublime-Minifier)
+- [PHPcs](https://github.com/benmatselby/sublime-phpcs)
 
 **Visual**
 
 - [Scheme: Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 - [Theme: Afterglow](https://github.com/YabataDesign/afterglow-theme)
 
+**Experimental**
+
+- [Sublime Erl](https://github.com/ostinelli/SublimErl)
+- [Sublime Haskell](https://github.com/SublimeHaskell/SublimeHaskell)
+- [Enchanced Clojure](https://github.com/Foxboron/SublimeClojure)
 
 ## Sync Settings by Dropbox
 
