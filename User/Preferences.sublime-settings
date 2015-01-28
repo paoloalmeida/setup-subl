@@ -1,0 +1,27 @@
+{
+	"auto_complete_commit_on_tab ": true,
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"detect_indentation": false,
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - Portuguese/Portuguese (Brazilian).dic",
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"rulers": "auto",
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": "auto"
+}

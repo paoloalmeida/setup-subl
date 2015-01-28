@@ -72,7 +72,7 @@
 
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
     $ rm -r User
-    $ ln -s ~/Dropbox/Sublime/User
+    $ ln -s ~/Dropbox/Github/setup-subl/User
 
 > [Check this link](https://sublime.wbond.net/docs/syncing) for detailed information.
 

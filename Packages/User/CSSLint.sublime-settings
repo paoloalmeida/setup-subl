@@ -1,7 +1,0 @@
-{
-    // CSSLint rules you wish to define as errors. Must be an array. Leave blank to include all default rules.
-    "errors": ["important", "duplicate-properties"],
-
-    // CSSLint rules you wish to define as warnings. Must be an array. Leave blank to include all default rules.
-    "warnings": ["import", "ids", "empty-rules"]
-}
