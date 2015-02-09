@@ -1,0 +1,22 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			// Firefox
+			{
+				"caption": "Firefox",
+				"id": "side-bar-files-open-with-firefox",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Firefox.app", // OSX
+									"extensions":"php|html"
+								}
+			},
+
+			{"caption":"-"}
+		]
+	}
+]

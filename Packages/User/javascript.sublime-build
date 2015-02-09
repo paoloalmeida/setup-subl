@@ -1,4 +1,0 @@
-{
-"cmd": ["/System/Library/Frameworks/JavaScriptCore.framework/Versions/A/Resources/JavaScript", "$file"],
-"selector": "source.js"
-}

@@ -1,0 +1,47 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Bracketeer",
+		"BracketHighlighter",
+		"Chai Completions",
+		"ColorPicker",
+		"CombineAndMinify",
+		"EditorConfig",
+		"Emmet",
+		"Enhanced Clojure",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Patterns",
+		"jQuery",
+		"Lazy Backbone.js",
+		"Libraries from CDN",
+		"Minifier",
+		"Mocha Snippets",
+		"Monokai Extended",
+		"Package Control",
+		"PhpDoc",
+		"phpfmt",
+		"Placeholders",
+		"Rails Developer Snippets",
+		"SASS Snippets",
+		"Stylus",
+		"SublimeHaskell",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SublimErl",
+		"Syntax Highlighting for Sass",
+		"Theme - Afterglow",
+		"WakaTime",
+		"WordPress"
+	]
+}

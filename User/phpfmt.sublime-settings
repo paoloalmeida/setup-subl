@@ -1,0 +1,6 @@
+{
+	"psr1": true,
+	"psr2": true,
+	"version": 1,
+	"yoda": true
+}
